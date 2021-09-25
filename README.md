@@ -3,6 +3,7 @@
  ##
 
 - 👨🏽‍💻 QA | Test Automation Analyst
+- 🧮 Ciências Contábeis
 - 📊 BI&A Analytics e Business Intelligence
 
  ##
