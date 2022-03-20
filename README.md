@@ -1,7 +1,7 @@
 ### Olá! Eu sou Tiago Gomes, seja bem vindo ao meu GitHub!
  ##
 
-- 👨🏽‍💻 QA | Test Automation Analyst
+- 👨🏽‍💻 QA | Automation Analyst | Analista de Qualidade e Automação de Teste
 - 🧮 Ciências Contábeis
 - 📊 BI&A Analytics e Business Intelligence
 
