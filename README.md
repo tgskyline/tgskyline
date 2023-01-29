@@ -37,7 +37,7 @@
    <a href="https://www.facebook.com/tiago.gomesdossantos.75" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/tiago.gomes_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="tigomes.santos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-   <a href="https://www.youtube.com/channel/UCe-wAtMfm0AKbqZY5PsoxJg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> </p>
+   <a href="https://www.youtube.com/@TGSkyline" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> </p>
 </div>
   
   
