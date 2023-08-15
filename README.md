@@ -6,7 +6,6 @@
 ## Hard Skills
 - 📡 Técnico em Telecomunicações pelo SENAI-SP
 - 🛠️ Tecnólogo em Processos Gerências
-- 📚 Ciências Contábeis
 - 📊 Pós Graduação em BI&A Analytics e Business Intelligence
 
  ##
