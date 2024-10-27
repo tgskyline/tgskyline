@@ -7,6 +7,7 @@
 - 📡 Técnico em Telecomunicações pelo SENAI-SP
 - 🛠️ Tecnólogo em Processos Gerências
 - 📊 Pós Graduado em BI&A Analytics e Business Intelligence pel PUC MG
+- 🎖️ ISTQB® Certified Tester Foundation Level (CTFL) 4.0
 
  ##
  
