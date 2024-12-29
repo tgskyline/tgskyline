@@ -4,7 +4,7 @@
 
 
 ## Hard Skills
-- 📡 Técnico em Telecomunicações pelo SENAI-SP
+- 📡 Técnico em Telecomunicações pelo SENAI-SP, com CREA-SP
 - 🛠️ Tecnólogo em Processos Gerências
 - 📊 Pós Graduado em BI&A Analytics e Business Intelligence pela PUC MG
 - 🎖️ ISTQB® Certified Tester Foundation Level (CTFL) 4.0
