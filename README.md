@@ -22,10 +22,14 @@
   <img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="NodeJs" height="50" width="130" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
-  <img align="center" alt="Cypress" height="50" width="120" src="https://www.pngkit.com/png/detail/411-4116389_cypress-io-logo7639-cypress-io-logo.png">
+  <img align="center" alt="NodeJs" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"" />         
+  <img align="center" alt="RobotFramework" height="70" width="130" src="https://blog.nashtechglobal.com/wp-content/uploads/2024/04/RobotFW.jpg" />
+  <img align="center" alt="Cypress" height="50" width="120" src="https://cdn.brandfetch.io/idIq_kF0rb/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
+  <img align="center" alt="SQL Server" height="80" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+  <img align="center" alt="K6" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
   <img align="center" alt="JMeter" height="50" width="130" src="https://i0.wp.com/cdn-images-1.medium.com/max/800/1*KeuQ7uNalz2l4rBOyPAUpg.png?w=1180&ssl=1">
-  <img align="center" alt="SQL Server" height="50" width="130" src="https://www.iperiusbackup.net/wp-content/uploads/2016/05/1768.sql_logo.png"></p>
+  </p>
+  
   
 </div>
   
