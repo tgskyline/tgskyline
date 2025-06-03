@@ -27,7 +27,6 @@
   <img align="center" alt="Cypress" height="40" width="100" src="https://cdn.brandfetch.io/idIq_kF0rb/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
   <img align="center" alt="SQL Server" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
   <img align="center" alt="K6" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
-  <img align="center" alt="JMeter" height="40" width="100" src="https://i0.wp.com/cdn-images-1.medium.com/max/800/1*KeuQ7uNalz2l4rBOyPAUpg.png?w=1180&ssl=1">
   </p>
   
   
