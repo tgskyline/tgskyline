@@ -11,7 +11,7 @@
 
  ##
  
-<div style="display: flex; align="center">
+<div align="center">
   
   <img alt="Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30">
   
