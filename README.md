@@ -11,94 +11,27 @@
 
  ##
  
- <div style="
-  max-width: 500px;
-  margin: 20px auto;
-  padding: 20px;
-  border-radius: 12px;
-  background-color: #0d1117;
-  border: 1px solid #30363d;
-  font-family: Arial, sans-serif;
-  color: #c9d1d9;
-  text-align: center;
-">
-
-  <h3 style="margin-bottom: 15px;">🚀 Skills</h3>
-
-  <div style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 15px;
-  ">
-
-   <div class="skill">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <span>JavaScript</span>
-   </div>
-
-   <div class="skill">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <span>Python</span>
-   </div>
-
-   <div class="skill">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-     <span>Java</span>
-   </div>
-
-   <div class="skill">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-     <span>Git</span>
-   </div>
-
-   <div class="skill">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-     <span>Node.js</span>
-   </div>
-
-   <div class="skill">
-     <img src="https://blog.nashtechglobal.com/wp-content/uploads/2024/04/RobotFW.jpg">
-     <span>Robot</span>
-   </div>
-
-   <div class="skill">
-     <img src="https://cdn.brandfetch.io/idIq_kF0rb/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B">
-     <span>Cypress</span>
-   </div>
-
-   <div class="skill">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
-     <span>SQL Server</span>
-   </div>
-
-   <div class="skill">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg">
-     <span>K6</span>
-   </div>
-
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  
+  <img alt="Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30">
+  
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30">
+  
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30">
+  
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30">
+  
+  <img alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30">
+  
+  <img alt="RobotFramework" src="https://blog.nashtechglobal.com/wp-content/uploads/2024/04/RobotFW.jpg" height="30">
+  
+  <img alt="Cypress" src="https://cdn.brandfetch.io/idIq_kF0rb/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="30">
+  
+  <img alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="30">
+  
+  <img alt="K6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" height="30">
 
 </div>
-
-<style>
-.skill {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 80px;
-}
-
-.skill img {
-  height: 35px;
-  margin-bottom: 5px;
-  object-fit: contain;
-}
-
-.skill span {
-  font-size: 12px;
-}
-</style>
   
  ##
     
