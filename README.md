@@ -17,17 +17,26 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgskyline&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <p align="center"> 
-  <img alt="Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></img> <img alt="Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
-  <img alt="Java" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></img>
-  <img alt="Git" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></img>
-  <img alt="NodeJs" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"" /></img>   
-  <img alt="RobotFramework" height="40" width="80" src="https://blog.nashtechglobal.com/wp-content/uploads/2024/04/RobotFW.jpg" /></img>
-  <img alt="Cypress" height="30" width="80" src="https://cdn.brandfetch.io/idIq_kF0rb/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" /></img>
-  <img alt="SQL Server" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"></img>
-  <img alt="K6" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" /></img>
-  </p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  
+  <img alt="Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30">
+  
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30">
+  
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30">
+  
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30">
+  
+  <img alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="30">
+  
+  <img alt="RobotFramework" src="https://blog.nashtechglobal.com/wp-content/uploads/2024/04/RobotFW.jpg" height="30">
+  
+  <img alt="Cypress" src="https://cdn.brandfetch.io/idIq_kF0rb/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" height="30">
+  
+  <img alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="30">
+  
+  <img alt="K6" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" height="30">
+
 </div>
   
  ##
